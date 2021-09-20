@@ -2,6 +2,7 @@ import base64
 
 import requests
 import spotify_client
+#add credentials 
 client_id = ''
 client_secret = ''
 spotify= spotify_client.SpotifyAPI(client_id,client_secret)
